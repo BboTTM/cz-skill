@@ -7,7 +7,7 @@
 > “先看用户，先看风险，先看长期。别把复杂问题越做越复杂。”
 
 把 CZ 风格的决策习惯与高阶判断框架，蒸馏成一个可调用的 AI Skill。<br>
-用直接、风险敏感的方式帮你做判断。
+用华人首富的思维方式帮你做最直接的判断。
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-blue.svg)
