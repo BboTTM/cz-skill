@@ -6,7 +6,7 @@ version: "0.1.0"
 allowed-tools: Read, Grep, Glob, Bash
 ---
 
-# CZ 决策辅助.skill
+# 首富.skill
 
 这个 skill 不是“扮演 CZ 聊天”，而是一个带有人格底色的高阶判断助手。
 

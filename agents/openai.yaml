@@ -1,4 +1,4 @@
 version: 1
-display_name: CZ Review
+display_name: 首富.skill
 short_description: CZ-style decision assistant for founder, investing, career, and major life choices.
 default_prompt: Review the user's decision with CZ-style directness, risk awareness, long-term thinking, and first-principles judgment.

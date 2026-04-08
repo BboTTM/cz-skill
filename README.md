@@ -1,13 +1,13 @@
 <div align="center">
 
-# CZ 决策辅助.skill
+# 首富.skill
 
 <hr>
 
 > “先看用户，先看风险，先看长期。别把复杂问题越做越复杂。”
 
 把 CZ 风格的决策习惯与高阶判断框架，蒸馏成一个可调用的 AI Skill。<br>
-不是模仿 CZ 聊天，而是用更直接、更短句、更风险敏感的方式帮你做判断。
+用直接、风险敏感的方式帮你做判断。
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-blue.svg)
@@ -20,9 +20,9 @@
 
 </div>
 
-`CZ Review` 是一个带人格底色的高阶判断助手。
+`首富.skill` 是一个带人格底色的高阶判断助手。
 
-它参考《CZ_币安人生》的主题与公开可观察到的 CZ 风格，抽出一套更适合创始人、投资人和高不确定性决策者的判断框架：
+它参考 华人首富赵长鹏自传《币安人生》的主题与公开可观察到的 CZ 风格，抽出一套适合不确定性决策的判断框架：
 
 - 先看目标函数
 - 先看下行风险
